@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+		"sound": "",
+		"speed": 0.05,
+		"portrait": "eyz",
+		"boxState": "normal",
+		"expression": "confused",
+		"text": "Puxa, ja esta de noite?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Realemente, so passamos alguns minutos aqui e o tempo passou muito rapido, sera que os bailonios atulizaram o tempo e eu nao to sabendo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Kyles, Eu ja estou muito cansado... "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oi gente, o que estao fazendo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mandando um rap com esse anao azul"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que massa!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "E, mais e muito dificl ganhar dele, eu to muito cansado."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Eu posso tentar?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Eu acho que na~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "POR QUE O QUE?? UMA MULHER NÂO PODE MAIS CANTAR???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Ele nao quis te ofender, Kamy..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ele so queria falar se o Boyfriend nao se sente cansaso de tanto cantar, porque ja passou a tarde toda, ne?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Pior que e verdade"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Voce nao ta cansado nunca, anaozinho?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ba Bee Poo Pa Beep Beee Bob Pab Poh Bee Beep Bee Skdoo Bip Bob!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Eh... Acho que ele nao tem problema nao!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kamy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Otimo entao vamos comecar com isso!"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pandinha.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pandinha costelação0000" x="0" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0001" x="0" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0002" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0003" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0004" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0005" x="443" y="0" width="443" height="415"/>
+</TextureAtlas>

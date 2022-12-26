@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				486,
+				384
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				402,
+				353
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				500,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				490,
+				369
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				841,
+				626
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BambiKyle",
+	"position": [
+		0,
+		490
+	],
+	"healthicon": "eyzgonal",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		170,
+		51
+	],
+	"camera_position": [
+		-630,
+		-460
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

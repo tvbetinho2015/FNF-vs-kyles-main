@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				243,
+				63
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "kyles GAME OVER",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				61
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "KylesGameover loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "KylesRetryComfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyles_DEAD",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "kyles",
+	"flip_x": true,
+	"healthbar_colors": [
+		239,
+		239,
+		239
+	],
+	"camera_position": [
+		0,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

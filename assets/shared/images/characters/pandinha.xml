@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pandinha.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pandinha costelação0000" x="0" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0001" x="0" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0002" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0003" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0004" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha costelação0005" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0000" x="886" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0001" x="886" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0002" x="1329" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0003" x="1329" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0004" x="1772" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha invisivel0005" x="1772" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10000" x="2215" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10001" x="2215" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10002" x="2658" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10003" x="2658" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10004" x="3101" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10005" x="3101" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10006" x="3544" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10007" x="3544" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10008" x="0" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10009" x="0" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10010" x="443" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10011" x="443" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10012" x="886" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10013" x="886" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10014" x="1329" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10015" x="1329" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10016" x="1772" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10017" x="1772" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10018" x="2215" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10019" x="2215" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10020" x="2658" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10021" x="2658" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10022" x="3101" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10023" x="3101" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10024" x="3544" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10025" x="3544" y="415" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10026" x="0" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10027" x="0" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10028" x="443" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10029" x="443" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10030" x="886" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10031" x="886" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10032" x="1329" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10033" x="1329" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10034" x="1772" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10035" x="1772" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10036" x="2215" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10037" x="2215" y="830" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10038" x="443" y="0" width="443" height="415"/>
+	<SubTexture name="Pandinha_anim10039" x="443" y="0" width="443" height="415"/>
+</TextureAtlas>

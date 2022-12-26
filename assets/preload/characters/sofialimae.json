@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sofia idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sofia down"
+		},
+		{
+			"offsets": [
+				15,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sofia up"
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sofia right"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sofia left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sofiaa_assets",
+	"position": [
+		10,
+		40
+	],
+	"healthicon": "sofie",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		62,
+		176
+	],
+	"camera_position": [
+		-50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

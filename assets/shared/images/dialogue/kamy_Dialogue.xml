@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kamy_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KamyDialogueConfused 0000" x="0" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused 0001" x="0" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused 0002" x="298" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused 0003" x="298" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused 0004" x="596" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused 0005" x="596" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueConfused loop0000" x="894" y="0" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueConfused loop0001" x="894" y="0" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueConfused loop0002" x="1191" y="0" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueConfused loop0003" x="1191" y="0" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueConfused loop0004" x="1488" y="0" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueConfused loop0005" x="1488" y="0" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited 0000" x="1786" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueExcited 0001" x="1786" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueExcited 0002" x="2084" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueExcited 0003" x="2084" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueExcited 0004" x="2382" y="0" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueExcited 0005" x="2382" y="0" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueExcited loop0000" x="2680" y="0" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited loop0001" x="2680" y="0" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited loop0002" x="2977" y="0" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited loop0003" x="2977" y="0" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited loop0004" x="3274" y="0" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueExcited loop0005" x="3274" y="0" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock 0000" x="3572" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueShock 0001" x="3572" y="0" width="298" height="494"/>
+	<SubTexture name="KamyDialogueShock 0002" x="0" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueShock 0003" x="0" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueShock 0004" x="298" y="498" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueShock 0005" x="298" y="498" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueShock loop0000" x="596" y="498" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock loop0001" x="596" y="498" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock loop0002" x="893" y="498" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock loop0003" x="893" y="498" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock loop0004" x="1190" y="498" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueShock loop0005" x="1190" y="498" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk0000" x="1488" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueTalk0001" x="1488" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueTalk0002" x="1786" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueTalk0003" x="1786" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueTalk0004" x="2084" y="498" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueTalk0005" x="2084" y="498" width="298" height="493" frameX="0" frameY="-1" frameWidth="298" frameHeight="494"/>
+	<SubTexture name="KamyDialogueTalk loop0000" x="2382" y="498" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk loop0001" x="2382" y="498" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk loop0002" x="2679" y="498" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk loop0003" x="2679" y="498" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk loop0004" x="2976" y="498" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueTalk loop0005" x="2976" y="498" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry 0000" x="3274" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry 0001" x="3274" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry 0002" x="3572" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry 0003" x="3572" y="498" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry 0004" x="0" y="996" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry 0005" x="0" y="996" width="298" height="494"/>
+	<SubTexture name="KamyDialogueangry loop0000" x="298" y="996" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry loop0001" x="298" y="996" width="297" height="498" frameX="0" frameY="0" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry loop0002" x="595" y="996" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry loop0003" x="595" y="996" width="297" height="495" frameX="-2" frameY="-3" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry loop0004" x="892" y="996" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+	<SubTexture name="KamyDialogueangry loop0005" x="892" y="996" width="298" height="494" frameX="-3" frameY="-4" frameWidth="301" frameHeight="498"/>
+</TextureAtlas>

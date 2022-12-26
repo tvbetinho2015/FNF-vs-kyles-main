@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eyz_Saudade_idle"
+		},
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eyz_Saudade_down"
+		},
+		{
+			"offsets": [
+				90,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eyz_Saudade_up"
+		},
+		{
+			"offsets": [
+				33,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eyz_Saudade_right"
+		},
+		{
+			"offsets": [
+				-138,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eyz_Saudade_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-42
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "eyz down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				59
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "eyz up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "eyz right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "eyz left miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eyzSaudades_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eyz",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		238,
+		157
+	],
+	"camera_position": [
+		50,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

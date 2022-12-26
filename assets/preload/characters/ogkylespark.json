@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "OG_Kyles_Idle"
+		},
+		{
+			"offsets": [
+				-8,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "OG_Kyles_down"
+		},
+		{
+			"offsets": [
+				67,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "OG_Kyles_left"
+		},
+		{
+			"offsets": [
+				32,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "OG_Kyles_up"
+		},
+		{
+			"offsets": [
+				-26,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "OG_Kyles_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OG_kyles_assets",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "ogkyles-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		239,
+		239
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

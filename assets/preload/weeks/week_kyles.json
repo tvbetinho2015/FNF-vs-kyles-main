@@ -1,0 +1,50 @@
+{
+	"storyName": "Kylespark",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"kylespark",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cosmic void",
+			"kyles",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"clouds",
+			"eyz",
+			[
+				255,
+				235,
+				80
+			]
+		],
+		[
+			"femity",
+			"kamy",
+			[
+				20,
+				195,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "KYLES Week",
+	"hiddenUntilUnlocked": false
+}

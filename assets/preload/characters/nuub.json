@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nuub idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nuub left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nuub down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nuub up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nuub right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nuub_assets",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "nuub",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		68,
+		46
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bem... Eu Perdi de voce, ne?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oi Kyles, o que esta acontecendo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Entao, basicamente estou perdendo uma batalha de rap com um anao descolado chamado Boyfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bem, Isso aprentemente parece ser bem legal!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Entao se tu acha legal? Porque nao vai la batalhar com ele?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap Beep Bob Boop Skeed Bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, Kyles!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eyz",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So que eu to um pouco nervoso... Eu vou cantar de verdade?? porque parece que ele so fala com 'Beebs e Bops'..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Relaxa, e so fingir que ta cantando com silabas em tons diferentes, afinal nem precisa de letra pra isso, ne?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba Bee Bop!"
+		}
+	]
+}

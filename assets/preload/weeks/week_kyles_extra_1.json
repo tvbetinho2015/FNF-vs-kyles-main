@@ -1,0 +1,41 @@
+{
+	"storyName": "amongus year",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ogkyles",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week_kyles",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Strings",
+			"ogkyles-new",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Comic",
+			"ogkyles-new",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "OG Kylespark",
+	"hiddenUntilUnlocked": true
+}

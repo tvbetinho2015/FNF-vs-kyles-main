@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tank trap idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tank trap left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tank trap down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tank trap up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tank trap right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankmanCaptain_trap",
+	"position": [
+		-510,
+		-180
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		410,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

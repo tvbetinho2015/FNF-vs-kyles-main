@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "log idle"
+		},
+		{
+			"offsets": [
+				123,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "log left"
+		},
+		{
+			"offsets": [
+				10,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "log down"
+		},
+		{
+			"offsets": [
+				4,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "log up"
+		},
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "log right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/log_asstes",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "log",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		38,
+		38
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

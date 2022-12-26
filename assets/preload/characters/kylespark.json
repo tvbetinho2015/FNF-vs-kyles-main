@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kyles_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kyles_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kyles_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kyles_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kyles_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyles_assets",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "kyles",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		239,
+		239
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

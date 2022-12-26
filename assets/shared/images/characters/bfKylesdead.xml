@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfKylesdead.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Death kyles0000" x="0" y="0" width="471" height="613" frameX="-37" frameY="-1" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0001" x="471" y="0" width="537" height="613" frameX="-7" frameY="-1" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0002" x="1008" y="0" width="537" height="615" frameX="-7" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0003" x="1545" y="0" width="571" height="615" frameX="0" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0004" x="1545" y="0" width="571" height="615" frameX="0" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0005" x="2116" y="0" width="570" height="615" frameX="0" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0006" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0007" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0008" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0009" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0010" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0011" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0012" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0013" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0014" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0015" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0016" x="2686" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0017" x="3113" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0018" x="3113" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0019" x="3540" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0020" x="3540" y="0" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0021" x="0" y="615" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0022" x="0" y="615" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0023" x="427" y="615" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0024" x="854" y="615" width="427" height="615" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0025" x="1281" y="615" width="427" height="648" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0026" x="1281" y="615" width="427" height="648" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0027" x="1708" y="615" width="427" height="642" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0028" x="1708" y="615" width="427" height="642" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0029" x="2135" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0030" x="2135" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0031" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0032" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0033" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0034" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0035" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0036" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0037" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0038" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0039" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0040" x="2562" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0041" x="2989" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0042" x="2989" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0043" x="2989" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0044" x="2989" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0045" x="3416" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0046" x="3416" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0047" x="3416" y="615" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0048" x="0" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0049" x="0" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0050" x="0" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0051" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0052" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0053" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0054" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0055" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0056" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0057" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0058" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0059" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0060" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0061" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0062" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles0063" x="427" y="1263" width="427" height="644" frameX="-35" frameY="0" frameWidth="571" frameHeight="648"/>
+	<SubTexture name="BF Death kyles Confirm0000" x="854" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0001" x="1281" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0002" x="1708" y="1263" width="427" height="673"/>
+	<SubTexture name="BF Death kyles Confirm0003" x="2135" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0004" x="2562" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0005" x="2989" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0006" x="3416" y="1263" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0007" x="0" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0008" x="427" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0009" x="854" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0010" x="1281" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0011" x="1708" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0012" x="2135" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0013" x="2562" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0014" x="2989" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0015" x="3416" y="1936" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0016" x="0" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0017" x="427" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0018" x="854" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0019" x="1281" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0020" x="1708" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0021" x="2135" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0022" x="2135" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0023" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0024" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0025" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0026" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0027" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0028" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0029" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0030" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0031" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0032" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles Confirm0033" x="2562" y="2580" width="427" height="644" frameX="0" frameY="-29" frameWidth="427" frameHeight="673"/>
+	<SubTexture name="BF Death kyles loop0000" x="2989" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0001" x="3416" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0002" x="3416" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0003" x="0" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0004" x="0" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0005" x="427" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0006" x="427" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0007" x="854" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0008" x="854" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0009" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0010" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0011" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0012" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0013" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0014" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0015" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0016" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0017" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0018" x="2989" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0019" x="3416" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0020" x="3416" y="2580" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0021" x="0" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0022" x="0" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0023" x="427" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0024" x="427" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0025" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0026" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0027" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0028" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0029" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0030" x="854" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0031" x="854" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0032" x="1281" y="3224" width="427" height="644"/>
+	<SubTexture name="BF Death kyles loop0033" x="1281" y="3224" width="427" height="644"/>
+</TextureAtlas>

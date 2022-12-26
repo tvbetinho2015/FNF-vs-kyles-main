@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bus.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cerario instância 10000" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10001" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10002" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10003" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10004" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10005" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10006" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10007" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10008" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10009" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10010" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10011" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10012" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10013" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10014" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10015" x="0" y="0" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10016" x="0" y="1276" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10017" x="0" y="2552" width="2274" height="1276"/>
+	<SubTexture name="Cerario instância 10018" x="0" y="0" width="2274" height="1276"/>
+</TextureAtlas>

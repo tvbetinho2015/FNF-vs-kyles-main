@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrapKyles_dead.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trapkyle_gameover0000" x="0" y="0" width="1114" height="777" frameX="-74" frameY="0" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0001" x="0" y="0" width="1114" height="777" frameX="-74" frameY="0" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0002" x="1114" y="0" width="1171" height="762" frameX="-85" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0003" x="1114" y="0" width="1171" height="762" frameX="-85" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0004" x="2285" y="0" width="1229" height="762" frameX="-50" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0005" x="2285" y="0" width="1229" height="762" frameX="-50" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0006" x="3514" y="0" width="1371" height="762" frameX="0" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0007" x="3514" y="0" width="1371" height="762" frameX="0" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0008" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0009" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0010" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0011" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0012" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0013" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0014" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0015" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0016" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0017" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0018" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0019" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0020" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0021" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0022" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0023" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0024" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0025" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0026" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0027" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0028" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0029" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0030" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0031" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0032" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0033" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0034" x="4885" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0035" x="5551" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0036" x="6217" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0037" x="6883" y="0" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0038" x="0" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0039" x="666" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0040" x="1332" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0041" x="1998" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0042" x="2664" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0043" x="3330" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0044" x="3996" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0045" x="4662" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0046" x="3996" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0047" x="5328" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0048" x="5994" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0049" x="6660" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0050" x="6660" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0051" x="7326" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0052" x="5994" y="777" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0053" x="0" y="1539" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0054" x="666" y="1539" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0055" x="1332" y="1539" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0056" x="1998" y="1539" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameover0057" x="1998" y="1539" width="666" height="762" frameX="-384" frameY="-15" frameWidth="1371" frameHeight="777"/>
+	<SubTexture name="Trapkyle_gameoverend0000" x="2664" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0001" x="3342" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0002" x="4020" y="1539" width="678" height="773"/>
+	<SubTexture name="Trapkyle_gameoverend0003" x="4698" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0004" x="5376" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0005" x="6054" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0006" x="6732" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0007" x="7410" y="1539" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0008" x="0" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0009" x="678" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0010" x="1356" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0011" x="2034" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0012" x="2712" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0013" x="3390" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0014" x="4068" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0015" x="4746" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0016" x="5424" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0017" x="6102" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0018" x="6780" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0019" x="7458" y="2312" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0020" x="0" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0021" x="678" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0022" x="1356" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0023" x="1356" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0024" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0025" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0026" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0027" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0028" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0029" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0030" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0031" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0032" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverend0033" x="2034" y="3071" width="678" height="759" frameX="0" frameY="-14" frameWidth="678" frameHeight="773"/>
+	<SubTexture name="Trapkyle_gameoverloop0000" x="2712" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0001" x="3390" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0002" x="3390" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0003" x="4068" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0004" x="4068" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0005" x="4746" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0006" x="4746" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0007" x="5424" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0008" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0009" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0010" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0011" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0012" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0013" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0014" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0015" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0016" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0017" x="2712" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0018" x="3390" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0019" x="3390" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0020" x="4068" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0021" x="4068" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0022" x="4746" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0023" x="4746" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0024" x="5424" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0025" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0026" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0027" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0028" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0029" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0030" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0031" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0032" x="6102" y="3071" width="678" height="777"/>
+	<SubTexture name="Trapkyle_gameoverloop0033" x="6102" y="3071" width="678" height="777"/>
+</TextureAtlas>

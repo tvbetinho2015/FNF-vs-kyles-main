@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gravetto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gravetto left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gravetto down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gravetto up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gravetto right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				9
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alt gravetto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				31
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "gravetto up alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-16
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "gravetto down alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				17
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "gravetto left alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				9
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "gravetto right alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gravetto_assets",
+	"position": [
+		-10,
+		-40
+	],
+	"healthicon": "grav",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		104,
+		191
+	],
+	"camera_position": [
+		20,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

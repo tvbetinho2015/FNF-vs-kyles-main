@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "caio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "caio down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "caio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "caio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "caio right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/caio_assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "caiolip",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		52,
+		155
+	],
+	"camera_position": [
+		20,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

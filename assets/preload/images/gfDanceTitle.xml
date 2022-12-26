@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kyles start instância 10000" x="0" y="0" width="676" height="690" frameX="0" frameY="-32" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10001" x="0" y="0" width="676" height="690" frameX="0" frameY="-32" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10002" x="676" y="0" width="641" height="708" frameX="-28" frameY="-18" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10003" x="676" y="0" width="641" height="708" frameX="-28" frameY="-18" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10004" x="1317" y="0" width="620" height="719" frameX="-43" frameY="-10" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10005" x="1317" y="0" width="620" height="719" frameX="-43" frameY="-10" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10006" x="1937" y="0" width="614" height="728" frameX="-47" frameY="-4" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10007" x="1937" y="0" width="614" height="728" frameX="-47" frameY="-4" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10008" x="2551" y="0" width="616" height="733" frameX="-49" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10009" x="2551" y="0" width="616" height="733" frameX="-49" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10010" x="3167" y="0" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10011" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10012" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10013" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10014" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10015" x="0" y="0" width="676" height="690" frameX="0" frameY="-32" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10016" x="0" y="0" width="676" height="690" frameX="0" frameY="-32" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10017" x="676" y="0" width="641" height="708" frameX="-28" frameY="-18" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10018" x="676" y="0" width="641" height="708" frameX="-28" frameY="-18" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10019" x="1317" y="0" width="620" height="719" frameX="-43" frameY="-10" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10020" x="1317" y="0" width="620" height="719" frameX="-43" frameY="-10" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10021" x="1937" y="0" width="614" height="728" frameX="-47" frameY="-4" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10022" x="1937" y="0" width="614" height="728" frameX="-47" frameY="-4" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10023" x="2551" y="0" width="616" height="733" frameX="-49" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10024" x="2551" y="0" width="616" height="733" frameX="-49" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10025" x="3167" y="0" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10026" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10027" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10028" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="Kyles start instância 10029" x="0" y="733" width="616" height="733" frameX="-50" frameY="0" frameWidth="676" frameHeight="733"/>
+</TextureAtlas>

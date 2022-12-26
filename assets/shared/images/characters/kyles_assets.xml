@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kyles_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kyles laugh0000" x="0" y="0" width="590" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0001" x="0" y="0" width="590" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0002" x="590" y="0" width="596" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0003" x="1186" y="0" width="604" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0004" x="1790" y="0" width="612" height="706"/>
+	<SubTexture name="kyles laugh0005" x="2402" y="0" width="484" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0006" x="2886" y="0" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0007" x="2886" y="0" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0008" x="3367" y="0" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0009" x="3367" y="0" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0010" x="0" y="706" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0011" x="0" y="706" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0012" x="0" y="706" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles laugh0013" x="0" y="706" width="481" height="706" frameX="0" frameY="0" frameWidth="612" frameHeight="706"/>
+	<SubTexture name="kyles_down0000" x="481" y="706" width="505" height="677" frameX="-2" frameY="-3" frameWidth="510" frameHeight="680"/>
+	<SubTexture name="kyles_down0001" x="481" y="706" width="505" height="677" frameX="-2" frameY="-3" frameWidth="510" frameHeight="680"/>
+	<SubTexture name="kyles_down0002" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0003" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0004" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0005" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0006" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0007" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0008" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0009" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0010" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0011" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0012" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0013" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_down0014" x="986" y="706" width="510" height="680"/>
+	<SubTexture name="kyles_idle0000" x="1496" y="706" width="416" height="677" frameX="-16" frameY="-25" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0001" x="1496" y="706" width="416" height="677" frameX="-16" frameY="-25" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0002" x="1912" y="706" width="412" height="696" frameX="-18" frameY="-7" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0003" x="1912" y="706" width="412" height="696" frameX="-18" frameY="-7" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0004" x="2324" y="706" width="423" height="704" frameX="-6" frameY="0" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0005" x="2324" y="706" width="423" height="704" frameX="-6" frameY="0" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0006" x="2747" y="706" width="429" height="704" frameX="-1" frameY="0" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0007" x="2747" y="706" width="429" height="704" frameX="-1" frameY="0" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0008" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0009" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0010" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0011" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0012" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0013" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_idle0014" x="3176" y="706" width="430" height="703" frameX="0" frameY="-1" frameWidth="432" frameHeight="704"/>
+	<SubTexture name="kyles_left0000" x="3606" y="706" width="472" height="710" frameX="0" frameY="0" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0001" x="3606" y="706" width="472" height="710" frameX="0" frameY="0" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0002" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0003" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0004" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0005" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0006" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0007" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0008" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0009" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0010" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0011" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0012" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0013" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_left0014" x="0" y="1416" width="454" height="700" frameX="-21" frameY="-9" frameWidth="475" frameHeight="710"/>
+	<SubTexture name="kyles_right0000" x="454" y="1416" width="449" height="688"/>
+	<SubTexture name="kyles_right0001" x="454" y="1416" width="449" height="688"/>
+	<SubTexture name="kyles_right0002" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0003" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0004" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0005" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0006" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0007" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0008" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0009" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0010" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0011" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0012" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0013" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_right0014" x="903" y="1416" width="438" height="686" frameX="0" frameY="-2" frameWidth="449" frameHeight="688"/>
+	<SubTexture name="kyles_up0000" x="1341" y="1416" width="481" height="706" frameX="0" frameY="-3" frameWidth="481" frameHeight="709"/>
+	<SubTexture name="kyles_up0001" x="1341" y="1416" width="481" height="706" frameX="0" frameY="-3" frameWidth="481" frameHeight="709"/>
+	<SubTexture name="kyles_up0002" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0003" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0004" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0005" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0006" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0007" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0008" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0009" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0010" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0011" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0012" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0013" x="1822" y="1416" width="481" height="709"/>
+	<SubTexture name="kyles_up0014" x="1822" y="1416" width="481" height="709"/>
+</TextureAtlas>

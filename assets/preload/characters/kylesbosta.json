@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BLK_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BLK_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BLK_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BLK_RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BLK_IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bootleg Kyles",
+	"position": [
+		-70,
+		170
+	],
+	"healthicon": "ogkyles",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-270,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,182 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Lyrics Bf Side",
+						"Tudo Bom?",
+						"0.54"
+					],
+					[
+						"Change Character",
+						"Bf",
+						"trap-kyles-animation-1"
+					],
+					[
+						"Play Animation",
+						"anim1",
+						"Bf"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"trap-tank-animation-1"
+					],
+					[
+						"Play Animation",
+						"anim1",
+						"dad"
+					]
+				],
+				null,
+				""
+			],
+			[
+				695.364238410596,
+				[
+					[
+						"Lyrics Opp Side",
+						"Heh heh heh eh",
+						"1.4"
+					]
+				],
+				null,
+				""
+			],
+			[
+				1490.06622516556,
+				[
+					[
+						"Lyrics Opp Side",
+						"Pretty Good!",
+						"2.08"
+					]
+				]
+			],
+			[
+				2185.43046357616,
+				[
+					[
+						"Lyrics Bf Side",
+						"Pode enterrar depois o jose?",
+						"3.86"
+					]
+				]
+			],
+			[
+				3874.17218543046,
+				[
+					[
+						"Lyrics Bf Side",
+						"Que e a minha mosca",
+						"4.95"
+					]
+				],
+				null,
+				""
+			],
+			[
+				4966.88741721854,
+				[
+					[
+						"Lyrics Opp Side",
+						"Huh?",
+						"5.35"
+					]
+				],
+				null,
+				""
+			],
+			[
+				5364.23841059603,
+				[
+					[
+						"Lyrics Bf Side",
+						" gente vai se encontrar amanha",
+						"7.05"
+					]
+				],
+				null,
+				""
+			],
+			[
+				7052.98013245033,
+				[
+					[
+						"Lyrics Bf Side",
+						"Eu levo o pequeno jose pra voce",
+						"9.18"
+					]
+				],
+				null,
+				""
+			],
+			[
+				9238.41059602649,
+				[
+					[
+						"Lyrics Bf Side",
+						"e voce enterrar ele",
+						"10.29"
+					]
+				],
+				null,
+				""
+			],
+			[
+				10629.1390728477,
+				[
+					[
+						"Lyrics Opp Side",
+						"Ugh",
+						"11.09"
+					]
+				],
+				null,
+				""
+			],
+			[
+				11920.5298013245,
+				[
+					[
+						"Lyrics Opp Side",
+						"you're ugly",
+						"12.57"
+					]
+				]
+			],
+			[
+				12516.5562913907,
+				[
+					[
+						"Lyrics Opp Side",
+						"  ",
+						"1"
+					]
+				]
+			],
+			[
+				12615.8940397351,
+				[
+					[
+						"Change Character",
+						"bf",
+						"trap-kyles"
+					]
+				]
+			],
+			[
+				12715.2317880795,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"tankman-trap"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "anim1",
+			"fps": 24,
+			"name": "Kyles anim 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trapkyleanimation",
+	"position": [
+		80,
+		120
+	],
+	"healthicon": "kyles-trap-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		129,
+		185
+	],
+	"camera_position": [
+		330,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.23
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_vskylesBG.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kylespopcorn0000" x="0" y="0" width="405" height="722" frameX="0" frameY="0" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0001" x="0" y="0" width="405" height="722" frameX="0" frameY="0" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0002" x="405" y="0" width="406" height="720" frameX="0" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0003" x="405" y="0" width="406" height="720" frameX="0" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0004" x="811" y="0" width="404" height="721" frameX="-1" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0005" x="811" y="0" width="404" height="721" frameX="-1" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0006" x="1215" y="0" width="406" height="721" frameX="0" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="Kylespopcorn0007" x="1215" y="0" width="406" height="721" frameX="0" frameY="-1" frameWidth="406" frameHeight="722"/>
+	<SubTexture name="eyzdrew0000" x="1621" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0001" x="1621" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0002" x="2005" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0003" x="2005" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0004" x="2389" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0005" x="2389" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0006" x="2773" y="0" width="384" height="725"/>
+	<SubTexture name="eyzdrew0007" x="2773" y="0" width="384" height="725"/>
+	<SubTexture name="kamy0000" x="3157" y="0" width="355" height="695" frameX="-1" frameY="0" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0001" x="3157" y="0" width="355" height="695" frameX="-1" frameY="0" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0002" x="3512" y="0" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0003" x="3512" y="0" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0004" x="0" y="725" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0005" x="0" y="725" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0006" x="0" y="725" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kamy0007" x="0" y="725" width="357" height="695" frameX="0" frameY="-1" frameWidth="357" frameHeight="696"/>
+	<SubTexture name="kylesrj0000" x="357" y="725" width="402" height="721" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0001" x="357" y="725" width="402" height="721" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0002" x="759" y="725" width="402" height="721" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0003" x="759" y="725" width="402" height="721" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0004" x="1161" y="725" width="402" height="720" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0005" x="1161" y="725" width="402" height="720" frameX="-1" frameY="0" frameWidth="403" frameHeight="721"/>
+	<SubTexture name="kylesrj0006" x="1563" y="725" width="403" height="721"/>
+	<SubTexture name="kylesrj0007" x="1563" y="725" width="403" height="721"/>
+</TextureAtlas>

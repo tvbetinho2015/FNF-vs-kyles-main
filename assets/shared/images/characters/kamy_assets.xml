@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kamy_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kamy_down0000" x="0" y="0" width="431" height="632" frameX="-5" frameY="-5" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0001" x="0" y="0" width="431" height="632" frameX="-5" frameY="-5" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0002" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0003" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0004" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0005" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0006" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0007" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0008" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0009" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0010" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0011" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0012" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0013" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_down0014" x="431" y="0" width="434" height="637" frameX="0" frameY="0" frameWidth="436" frameHeight="637"/>
+	<SubTexture name="kamy_idle0000" x="865" y="0" width="339" height="656" frameX="-19" frameY="-31" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0001" x="865" y="0" width="339" height="656" frameX="-19" frameY="-31" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0002" x="1204" y="0" width="343" height="662" frameX="-9" frameY="-25" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0003" x="1204" y="0" width="343" height="662" frameX="-9" frameY="-25" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0004" x="1547" y="0" width="339" height="675" frameX="-2" frameY="-12" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0005" x="1547" y="0" width="339" height="675" frameX="-2" frameY="-12" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0006" x="0" y="675" width="341" height="685" frameX="-2" frameY="-2" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0007" x="0" y="675" width="341" height="685" frameX="-2" frameY="-2" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0008" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0009" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0010" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0011" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0012" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_idle0013" x="341" y="675" width="341" height="687" frameX="0" frameY="0" frameWidth="358" frameHeight="687"/>
+	<SubTexture name="kamy_left0000" x="682" y="675" width="358" height="677"/>
+	<SubTexture name="kamy_left0001" x="682" y="675" width="358" height="677"/>
+	<SubTexture name="kamy_left0002" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0003" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0004" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0005" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0006" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0007" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0008" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0009" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0010" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0011" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0012" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0013" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_left0014" x="1040" y="675" width="341" height="676" frameX="-9" frameY="-1" frameWidth="358" frameHeight="677"/>
+	<SubTexture name="kamy_right0000" x="1381" y="675" width="351" height="680" frameX="0" frameY="0" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0001" x="1381" y="675" width="351" height="680" frameX="0" frameY="0" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0002" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0003" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0004" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0005" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0006" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0007" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0008" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0009" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0010" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0011" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0012" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_right0013" x="0" y="1362" width="362" height="672" frameX="-2" frameY="-8" frameWidth="364" frameHeight="680"/>
+	<SubTexture name="kamy_up0000" x="362" y="1362" width="359" height="682"/>
+	<SubTexture name="kamy_up0001" x="362" y="1362" width="359" height="682"/>
+	<SubTexture name="kamy_up0002" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0003" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0004" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0005" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0006" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0007" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0008" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0009" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0010" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0011" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0012" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0013" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0014" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+	<SubTexture name="kamy_up0015" x="721" y="1362" width="349" height="678" frameX="-8" frameY="-4" frameWidth="359" frameHeight="682"/>
+</TextureAtlas>

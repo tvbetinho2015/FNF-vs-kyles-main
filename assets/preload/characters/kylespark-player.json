@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kyles_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				76,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "kyles_down0"
+		},
+		{
+			"offsets": [
+				4,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "kyles_up0"
+		},
+		{
+			"offsets": [
+				-36,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kyles_left0"
+		},
+		{
+			"offsets": [
+				88,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kyles_right0"
+		},
+		{
+			"offsets": [
+				98,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "kyles_right miss0"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "kyles_up miss0"
+		},
+		{
+			"offsets": [
+				-25,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "kyles_left miss0"
+		},
+		{
+			"offsets": [
+				72,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "kyles_down miss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyles_player",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "kyles-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		129,
+		185
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

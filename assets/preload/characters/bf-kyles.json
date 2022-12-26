@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kylespark_bf_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kylespark_bf_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kylespark_bf_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kylespark_bf_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kylespark_bf_idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Kyle bf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "kyle bf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-4
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "kyle bf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "kyle bf miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfKyles",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "bf-kyles",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

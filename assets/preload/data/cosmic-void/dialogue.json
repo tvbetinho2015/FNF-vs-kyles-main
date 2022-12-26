@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Eu tenho certeza que...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kyles"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeebi do"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Ahn? o que..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Voce nao e aquele garoto do tal jogo chamado frigide... "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Fridi... Five..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "night fird... rrrRGHAAA!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Friday Night Fun... Kin', Certo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "E porque caralhos esta fazendo aqui?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Eu estava de boas apreciando o meu estudio... digo... o estudio do meu amigo Grav!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap bep skedop beep bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Que?\r\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ele veio pra fazer batalha de Rap com voce!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ATA! (Porque diabos alguem pensaria fazer isso comigo do nada?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ok, entao vou batalhar contigo, tenho nada pra fazer mesmo."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alias, quais sao seus nomes mesmo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eu sou a Girlfriend, e este ai e o Boyfriend."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Cara, o que que seus pais tinham na cabeca quando deram esses nomes pra voces?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop skeeo do bop! (Bascamente fomos feitos de ultima hora e o criador teve prequica de invetar nome pra gente)!"
+		}
+	]
+}

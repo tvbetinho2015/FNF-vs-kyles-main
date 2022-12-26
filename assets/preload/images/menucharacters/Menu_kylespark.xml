@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_kylespark.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kylesMenu_yellow instância 10000" x="0" y="0" width="448" height="699" frameX="-6" frameY="-13" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10001" x="0" y="0" width="448" height="699" frameX="-6" frameY="-13" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10002" x="448" y="0" width="447" height="701" frameX="0" frameY="-12" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10003" x="448" y="0" width="447" height="701" frameX="0" frameY="-12" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10004" x="895" y="0" width="427" height="708" frameX="-6" frameY="-5" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10005" x="895" y="0" width="427" height="708" frameX="-6" frameY="-5" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10006" x="1322" y="0" width="420" height="712" frameX="-9" frameY="-1" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10007" x="1322" y="0" width="420" height="712" frameX="-9" frameY="-1" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10008" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10009" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10010" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10011" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10012" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+	<SubTexture name="kylesMenu_yellow instância 10013" x="0" y="712" width="417" height="713" frameX="-10" frameY="0" frameWidth="454" frameHeight="713"/>
+</TextureAtlas>

@@ -1,0 +1,77 @@
+{
+	"position": [
+		100,
+		-20
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "kyles_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-4,
+				-1
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				-4,
+				-1
+			],
+			"loop_name": "Kylesloop0",
+			"idle_name": "Kyles_static0"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-1
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Kyles_static bored",
+			"loop_name": "Kylesloop_bored0"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "Kyles_static angry0",
+			"loop_name": "Kylesloop_angry0"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "Kyles_static surted0",
+			"loop_name": "Kylesloop_surted0"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-4,
+				-1
+			],
+			"loop_name": "Kylesloop_hum0",
+			"idle_name": "Kyles_static hum0"
+		}
+	]
+}

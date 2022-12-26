@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Trapkyle_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Trapkyle_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Trapkyle_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Trapkyle_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Trapkyle_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Trapkyle_leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Trapkyle_downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Trapkyle_upmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trap_Kyles_Assets",
+	"position": [
+		-310,
+		-150
+	],
+	"healthicon": "kyles-trap-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		129,
+		185
+	],
+	"camera_position": [
+		160,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

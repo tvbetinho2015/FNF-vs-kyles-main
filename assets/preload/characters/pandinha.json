@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pandinha invisivel"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Pandinha costelação"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fade",
+			"indices": [],
+			"name": "Pandinha_anim1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pandinha",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "sheisnotdead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

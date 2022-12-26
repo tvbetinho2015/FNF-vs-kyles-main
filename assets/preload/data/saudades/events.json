@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Switch",
+						"0.001",
+						"off"
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"middlescroll",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Camera Switch",
+						"0.2",
+						"on"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Play Animation",
+						"fade",
+						"Dad"
+					]
+				]
+			],
+			[
+				126400,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Camera Switch",
+						"0.2",
+						"off"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kyles_DEAD.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KylesGameover loop0000" x="0" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0001" x="425" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0002" x="425" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0003" x="850" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0004" x="850" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0005" x="1275" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0006" x="1275" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0007" x="1700" y="0" width="425" height="718" frameX="0" frameY="0" frameWidth="425" frameHeight="720"/>
+	<SubTexture name="KylesGameover loop0008" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0009" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0010" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0011" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0012" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0013" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0014" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0015" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0016" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0017" x="0" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0018" x="425" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0019" x="425" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0020" x="850" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0021" x="850" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0022" x="1275" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0023" x="1275" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0024" x="1700" y="0" width="425" height="718" frameX="0" frameY="0" frameWidth="425" frameHeight="720"/>
+	<SubTexture name="KylesGameover loop0025" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0026" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0027" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0028" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0029" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0030" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0031" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0032" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesGameover loop0033" x="2125" y="0" width="425" height="720"/>
+	<SubTexture name="KylesRetryComfirm0000" x="2550" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0001" x="2975" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0002" x="3400" y="0" width="425" height="728" frameX="0" frameY="0" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0003" x="3825" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0004" x="4250" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0005" x="4675" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0006" x="5100" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0007" x="5525" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0008" x="5950" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0009" x="6375" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0010" x="6800" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0011" x="7225" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0012" x="7650" y="0" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0013" x="0" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0014" x="425" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0015" x="850" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0016" x="1275" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0017" x="1700" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0018" x="2125" y="728" width="425" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0019" x="2550" y="728" width="427" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0020" x="2977" y="728" width="428" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0021" x="3405" y="728" width="429" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0022" x="3834" y="728" width="430" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0023" x="3834" y="728" width="430" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0024" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0025" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0026" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0027" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0028" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0029" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0030" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0031" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0032" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="KylesRetryComfirm0033" x="4264" y="728" width="431" height="720" frameX="0" frameY="-8" frameWidth="431" frameHeight="728"/>
+	<SubTexture name="kyles GAME OVER0000" x="4695" y="728" width="720" height="707" frameX="-49" frameY="0" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0001" x="4695" y="728" width="720" height="707" frameX="-49" frameY="0" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0002" x="5415" y="728" width="757" height="704" frameX="-56" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0003" x="5415" y="728" width="757" height="704" frameX="-56" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0004" x="6172" y="728" width="795" height="704" frameX="-33" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0005" x="6172" y="728" width="795" height="704" frameX="-33" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0006" x="6967" y="728" width="887" height="704" frameX="0" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0007" x="6967" y="728" width="887" height="704" frameX="0" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0008" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0009" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0010" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0011" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0012" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0013" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0014" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0015" x="0" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0016" x="425" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0017" x="425" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0018" x="850" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0019" x="850" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0020" x="1275" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0021" x="1275" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0022" x="1700" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0023" x="1700" y="1448" width="425" height="704" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0024" x="2125" y="1448" width="443" height="704" frameX="-188" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0025" x="2568" y="1448" width="425" height="724" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0026" x="2568" y="1448" width="425" height="724" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0027" x="2993" y="1448" width="425" height="716" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0028" x="2993" y="1448" width="425" height="716" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0029" x="3418" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0030" x="3418" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0031" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0032" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0033" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0034" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0035" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0036" x="3843" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0037" x="4268" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0038" x="4268" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0039" x="4268" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0040" x="4693" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0041" x="4693" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0042" x="4693" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0043" x="4693" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0044" x="5118" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0045" x="5118" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0046" x="5118" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0047" x="5118" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0048" x="5118" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0049" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0050" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0051" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0052" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0053" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0054" x="5543" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0055" x="5968" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0056" x="5968" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+	<SubTexture name="kyles GAME OVER0057" x="5968" y="1448" width="425" height="720" frameX="-206" frameY="-3" frameWidth="887" frameHeight="727"/>
+</TextureAtlas>

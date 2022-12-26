@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week_kyles_extra_1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"eyzgonal",
+			"eyzgonal",
+			[
+				255,
+				215,
+				15
+			]
+		],
+		[
+			"trapping",
+			"kyles-trap-player",
+			[
+				255,
+				155,
+				75
+			]
+		],
+		[
+			"saudades",
+			"sheisnotdead-freeplay",
+			[
+				235,
+				235,
+				215
+			]
+		],
+		[
+			"best trio",
+			"eyz-kamy-kyles",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "OG Kylespark",
+	"hiddenUntilUnlocked": true
+}
